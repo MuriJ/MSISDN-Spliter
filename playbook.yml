@@ -10,14 +10,12 @@
      apt: name=libapache2-mod-php5 update_cache=yes state=latest		 
    - name: install curl
      apt: name=curl update_cache=yes state=latest
+   - name: install php5-curl
+     apt: name=php5-curl update_cache=yes state=latest
    - name: install php5-cli
      apt: name=php5-cli update_cache=yes state=latest
    - name: install git
      apt: name=git update_cache=yes state=latest	 
-   - name: install composer using curl
-     shell: curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
-   - name: install json RPC
-     shell: composer require fguillot/json-rpc @stable
    - name: edit httpd.conf
      shell: echo "ServerName localhost" > /etc/apache2/httpd.conf
    - name: restart apache

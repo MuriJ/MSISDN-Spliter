@@ -1,75 +1,64 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-    <title>VM Server</title>
-</head>
-<body>	
-	<?php
-		error_reporting(E_ALL);
-		ini_set('display_errors', 1);				
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>MSISDN Splitter</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="Description" lang="en" content="MSISDN Splitter">
+		<meta name="author" content="MuriJ">
+		<meta name="robots" content="index, follow">
 
-		function splitMSISDN($splitMSISDN){
-			$MSISDN = str_replace('-','',str_replace(' ','',ltrim(trim($splitMSISDN),"+")));			
-			$countries = json_decode(file_get_contents("../data/countries.json"));
-			
-			for ($x = 3; $x >= 1; $x--) {
-				$search = substr($MSISDN,0,$x);
-				$country = array_values(array_filter($countries, function($obj) use ($search){
-											return($obj->Dial == $search);		
-										}));
-				if(!empty($country)){
-					break;
-				}
-			}
-			
-			$phone = substr($MSISDN,$x);									
-			if (isset($country[0]->Codes)){
-				for ($x = $country[0]->NDCMax; $x >= $country[0]->NDCMin; $x--) {
-					$cityCode = substr($phone,0,$x);
-					$aMNO = array_values(array_filter($country[0]->Codes, function($obj) use ($cityCode){
-												return($obj->Code == $cityCode);		
-											}));
-					if(!empty($aMNO)){
-						break;
-					}
-				}
-			}			
-			
-			if(empty($aMNO)){								
-				$MNO = "";
-				$Code = substr($phone,0,$country[0]->NDCMax);
-				$Number = substr($phone,$country[0]->NDCMax);							
-			}else{
-				$MNO = $aMNO[0]->MNO;
-				$Code = $aMNO[0]->Code;
-				$Number = substr($phone,strlen($aMNO[0]->Code));
-			}		
-			
-			$out = new stdClass;
-			$out->MSISDN = $MSISDN;
-			$out->Dial = $country[0]->Dial;
-			$out->Code = $Code;
-			$out->Number = $Number;
-			$out->Country = $country[0]->ISO31661Alpha2;			
-			$out->MNO = $MNO;
-			
-			return $out;
-		}
-		function printMSISDN($obj){
-			echo nl2br("MSISDN - ".$obj->MSISDN."\n");
-			echo nl2br($obj->Dial." - ".$obj->Country."\n");
-			echo nl2br($obj->Code.(!empty($obj->MNO) ? " - " : "").$obj->MNO."\n");
-			echo nl2br($obj->Number."\n");
-			echo nl2br("\n");
-		}
+		<link rel="shortcut icon" href="assets/img/favicon.ico">
+		<link rel="stylesheet" href="assets/css/styles.css">
 		
-		$objMSISDN = splitMSISDN("+386 40 504 267");
-		echo json_encode($objMSISDN)."<br><br>";
-		
-		printMSISDN($objMSISDN);
-		printMSISDN(splitMSISDN("38604332205"));
-		printMSISDN(splitMSISDN("+385 42 225 984"));
-		printMSISDN(splitMSISDN("1-541-754-3010"));
-	?>
-</body>
+		<?php
+			include "settings.php";		
+			include "includes.php";
+		?>
+	</head>
+	<body>
+		<div class="header">
+			<div class="container">
+				<h1 class="header-heading">MSISDN Splitter</h1>
+			</div>
+		</div>
+		<div class="nav-bar">
+			<div class="container">				
+			</div>
+		</div>
+		<div class="content">
+			<div class="container">
+				<div class="main">
+					<div style="margin:0px 0px 10px 0px; font-size:12px;">
+						<b>Input numbers samples:</b><br>
+						+386 40 504 267<br>
+						38604332205<br>
+						+385 42 225 984<br>
+						1-541-754-3010<br>
+					</div>
+					<form action=<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?> method="post">
+					  MSISDN:<br>
+					  <input type="text" name="MSISDN" value="<?php echo (empty($_POST) ? "+386 40 504 267" : $_POST["MSISDN"]); ?>">					  
+					  <input type="submit" value="Submit">
+					</form> 
+					<hr>
+					
+					<?php				
+						if (!empty($_POST)){
+							$client = new JsonRpc($rpc_api_url);
+							$objMSISDN = json_decode($client->splitMSISDN($_POST["MSISDN"]));				
+								
+							printMSISDN($objMSISDN);
+						}
+					?>
+				</div>
+			</div>
+		</div>
+		<div class="footer">
+			<div class="container">
+				&copy; Copyright 2016
+			</div>
+		</div>
+	</body>
 </html>
