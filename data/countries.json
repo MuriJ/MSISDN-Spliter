@@ -1,0 +1,2682 @@
+[
+  {
+    "name": "Afghanistan",
+    "ISO31661Alpha2": "AF",
+    "Dial": "93",
+    "ISO4217currencyname": "Afghani",
+    "Capital": "Kabul",
+    "Continent": "AS",
+    "TLD": ".af",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Albania",
+    "ISO31661Alpha2": "AL",
+    "Dial": "355",
+    "ISO4217currencyname": "Lek",
+    "Capital": "Tirana",
+    "Continent": "EU",
+    "TLD": ".al",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Algeria",
+    "ISO31661Alpha2": "DZ",
+    "Dial": "213",
+    "ISO4217currencyname": "Algerian Dinar",
+    "Capital": "Algiers",
+    "Continent": "AF",
+    "TLD": ".dz",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Andorra",
+    "ISO31661Alpha2": "AD",
+    "Dial": "376",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Andorra la Vella",
+    "Continent": "EU",
+    "TLD": ".ad",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Angola",
+    "ISO31661Alpha2": "AO",
+    "Dial": "244",
+    "ISO4217currencyname": "Kwanza",
+    "Capital": "Luanda",
+    "Continent": "AF",
+    "TLD": ".ao",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Antarctica",
+    "ISO31661Alpha2": "AQ",
+    "Dial": "672",
+    "ISO4217currencyname": "",
+    "Capital": "",
+    "Continent": "AN",
+    "TLD": ".aq",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Argentina",
+    "ISO31661Alpha2": "AR",
+    "Dial": "54",
+    "ISO4217currencyname": "Argentine Peso",
+    "Capital": "Buenos Aires",
+    "Continent": "SA",
+    "TLD": ".ar",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Armenia",
+    "ISO31661Alpha2": "AM",
+    "Dial": "374",
+    "ISO4217currencyname": "Armenian Dram",
+    "Capital": "Yerevan",
+    "Continent": "AS",
+    "TLD": ".am",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Aruba",
+    "ISO31661Alpha2": "AW",
+    "Dial": "297",
+    "ISO4217currencyname": "Aruban Florin",
+    "Capital": "Oranjestad",
+    "Continent": "NA",
+    "TLD": ".aw",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Australia",
+    "ISO31661Alpha2": "AU",
+    "Dial": "61",
+    "ISO4217currencyname": "Australian Dollar",
+    "Capital": "Canberra",
+    "Continent": "OC",
+    "TLD": ".au",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Austria",
+    "ISO31661Alpha2": "AT",
+    "Dial": "43",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Vienna",
+    "Continent": "EU",
+    "TLD": ".at",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Azerbaijan",
+    "ISO31661Alpha2": "AZ",
+    "Dial": "994",
+    "ISO4217currencyname": "Azerbaijanian Manat",
+    "Capital": "Baku",
+    "Continent": "AS",
+    "TLD": ".az",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Bahrain",
+    "ISO31661Alpha2": "BH",
+    "Dial": "973",
+    "ISO4217currencyname": "Bahraini Dinar",
+    "Capital": "Manama",
+    "Continent": "AS",
+    "TLD": ".bh",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Bangladesh",
+    "ISO31661Alpha2": "BD",
+    "Dial": "880",
+    "ISO4217currencyname": "Taka",
+    "Capital": "Dhaka",
+    "Continent": "AS",
+    "TLD": ".bd",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Belarus",
+    "ISO31661Alpha2": "BY",
+    "Dial": "375",
+    "ISO4217currencyname": "Belarussian Ruble",
+    "Capital": "Minsk",
+    "Continent": "EU",
+    "TLD": ".by",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Belgium",
+    "ISO31661Alpha2": "BE",
+    "Dial": "32",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Brussels",
+    "Continent": "EU",
+    "TLD": ".be",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Belize",
+    "ISO31661Alpha2": "BZ",
+    "Dial": "501",
+    "ISO4217currencyname": "Belize Dollar",
+    "Capital": "Belmopan",
+    "Continent": "NA",
+    "TLD": ".bz",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Benin",
+    "ISO31661Alpha2": "BJ",
+    "Dial": "229",
+    "ISO4217currencyname": "CFA Franc BCEAO",
+    "Capital": "Porto-Novo",
+    "Continent": "AF",
+    "TLD": ".bj",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Bhutan",
+    "ISO31661Alpha2": "BT",
+    "Dial": "975",
+    "ISO4217currencyname": "Indian Rupee",
+    "Capital": "Thimphu",
+    "Continent": "AS",
+    "TLD": ".bt",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Bolivia",
+    "ISO31661Alpha2": "BO",
+    "Dial": "591",
+    "ISO4217currencyname": "Boliviano",
+    "Capital": "Sucre",
+    "Continent": "SA",
+    "TLD": ".bo",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Bosnia",
+    "ISO31661Alpha2": "BA",
+    "Dial": "387",
+    "ISO4217currencyname": "Convertible Mark",
+    "Capital": "Sarajevo",
+    "Continent": "EU",
+    "TLD": ".ba",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Botswana",
+    "ISO31661Alpha2": "BW",
+    "Dial": "267",
+    "ISO4217currencyname": "Pula",
+    "Capital": "Gaborone",
+    "Continent": "AF",
+    "TLD": ".bw",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Bouvet Island",
+    "ISO31661Alpha2": "BV",
+    "Dial": "47",
+    "ISO4217currencyname": "",
+    "Capital": "",
+    "Continent": "AN",
+    "TLD": ".bv",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Brazil",
+    "ISO31661Alpha2": "BR",
+    "Dial": "55",
+    "ISO4217currencyname": "Brazilian Real",
+    "Capital": "Brasilia",
+    "Continent": "SA",
+    "TLD": ".br",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "ISO31661Alpha2": "IO",
+    "Dial": "246",
+    "ISO4217currencyname": "",
+    "Capital": "Diego Garcia",
+    "Continent": "AS",
+    "TLD": ".io",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Brunei",
+    "ISO31661Alpha2": "BN",
+    "Dial": "673",
+    "ISO4217currencyname": "Brunei Dollar",
+    "Capital": "Bandar Seri Begawan",
+    "Continent": "AS",
+    "TLD": ".bn",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Bulgaria",
+    "ISO31661Alpha2": "BG",
+    "Dial": "359",
+    "ISO4217currencyname": "Bulgarian Lev",
+    "Capital": "Sofia",
+    "Continent": "EU",
+    "TLD": ".bg",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Burkina Faso",
+    "ISO31661Alpha2": "BF",
+    "Dial": "226",
+    "ISO4217currencyname": "CFA Franc BCEAO",
+    "Capital": "Ouagadougou",
+    "Continent": "AF",
+    "TLD": ".bf",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Burundi",
+    "ISO31661Alpha2": "BI",
+    "Dial": "257",
+    "ISO4217currencyname": "Burundi Franc",
+    "Capital": "Bujumbura",
+    "Continent": "AF",
+    "TLD": ".bi",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Cambodia",
+    "ISO31661Alpha2": "KH",
+    "Dial": "855",
+    "ISO4217currencyname": "Riel",
+    "Capital": "Phnom Penh",
+    "Continent": "AS",
+    "TLD": ".kh",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Cameroon",
+    "ISO31661Alpha2": "CM",
+    "Dial": "237",
+    "ISO4217currencyname": "CFA Franc BEAC",
+    "Capital": "Yaounde",
+    "Continent": "AF",
+    "TLD": ".cm",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Cape Verde",
+    "ISO31661Alpha2": "CV",
+    "Dial": "238",
+    "ISO4217currencyname": "Cabo Verde Escudo",
+    "Capital": "Praia",
+    "Continent": "AF",
+    "TLD": ".cv",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Caribbean Netherlands",
+    "ISO31661Alpha2": "BQ",
+    "Dial": "599",
+    "ISO4217currencyname": "US Dollar",
+    "Capital": "",
+    "Continent": "NA",
+    "TLD": ".bq",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Central African Republic",
+    "ISO31661Alpha2": "CF",
+    "Dial": "236",
+    "ISO4217currencyname": "CFA Franc BEAC",
+    "Capital": "Bangui",
+    "Continent": "AF",
+    "TLD": ".cf",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Chad",
+    "ISO31661Alpha2": "TD",
+    "Dial": "235",
+    "ISO4217currencyname": "CFA Franc BEAC",
+    "Capital": "N'Djamena",
+    "Continent": "AF",
+    "TLD": ".td",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Chile",
+    "ISO31661Alpha2": "CL",
+    "Dial": "56",
+    "ISO4217currencyname": "Chilean Peso",
+    "Capital": "Santiago",
+    "Continent": "SA",
+    "TLD": ".cl",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "China",
+    "ISO31661Alpha2": "CN",
+    "Dial": "86",
+    "ISO4217currencyname": "Yuan Renminbi",
+    "Capital": "Beijing",
+    "Continent": "AS",
+    "TLD": ".cn",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Christmas Island",
+    "ISO31661Alpha2": "CX",
+    "Dial": "61",
+    "ISO4217currencyname": "",
+    "Capital": "Flying Fish Cove",
+    "Continent": "AS",
+    "TLD": ".cx",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "ISO31661Alpha2": "CC",
+    "Dial": "61",
+    "ISO4217currencyname": "",
+    "Capital": "West Island",
+    "Continent": "AS",
+    "TLD": ".cc",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Colombia",
+    "ISO31661Alpha2": "CO",
+    "Dial": "57",
+    "ISO4217currencyname": "Colombian Peso",
+    "Capital": "Bogota",
+    "Continent": "SA",
+    "TLD": ".co",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Comoros",
+    "ISO31661Alpha2": "KM",
+    "Dial": "269",
+    "ISO4217currencyname": "Comoro Franc",
+    "Capital": "Moroni",
+    "Continent": "AF",
+    "TLD": ".km",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Congo - Brazzaville",
+    "ISO31661Alpha2": "CG",
+    "Dial": "242",
+    "ISO4217currencyname": "CFA Franc BEAC",
+    "Capital": "Brazzaville",
+    "Continent": "AF",
+    "TLD": ".cg",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Congo - Kinshasa",
+    "ISO31661Alpha2": "CD",
+    "Dial": "243",
+    "ISO4217currencyname": "",
+    "Capital": "Kinshasa",
+    "Continent": "AF",
+    "TLD": ".cd",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Cook Islands",
+    "ISO31661Alpha2": "CK",
+    "Dial": "682",
+    "ISO4217currencyname": "New Zealand Dollar",
+    "Capital": "Avarua",
+    "Continent": "OC",
+    "TLD": ".ck",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Costa Rica",
+    "ISO31661Alpha2": "CR",
+    "Dial": "506",
+    "ISO4217currencyname": "Costa Rican Colon",
+    "Capital": "San Jose",
+    "Continent": "NA",
+    "TLD": ".cr",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Croatia",
+    "ISO31661Alpha2": "HR",
+    "Dial": "385",
+    "ISO4217currencyname": "Croatian Kuna",
+    "Capital": "Zagreb",
+    "Continent": "EU",
+    "TLD": ".hr",
+    "NDCMin": 1,
+    "NDCMax": 2,
+    "Codes": [
+      {
+        "Code": "1",
+        "MNO": "Zagreb"
+      },
+      {
+        "Code": "92",
+        "MNO": "Zagreb"
+      },
+      {
+        "Code": "20",
+        "MNO": "Dubrovnik"
+      },
+      {
+        "Code": "21",
+        "MNO": "Split"
+      },
+      {
+        "Code": "22",
+        "MNO": "Sibenik"
+      },
+      {
+        "Code": "23",
+        "MNO": "Zadar"
+      },
+      {
+        "Code": "31",
+        "MNO": "Osijek"
+      },
+      {
+        "Code": "32",
+        "MNO": "Vinkovci"
+      },
+      {
+        "Code": "33",
+        "MNO": "Virovitica"
+      },
+      {
+        "Code": "34",
+        "MNO": "Pozega"
+      },
+      {
+        "Code": "35",
+        "MNO": "Slavonski Brod"
+      },
+      {
+        "Code": "40",
+        "MNO": "Cakovec"
+      },
+      {
+        "Code": "42",
+        "MNO": "Varazdin"
+      },
+      {
+        "Code": "43",
+        "MNO": "Bjelovar"
+      },
+      {
+        "Code": "44",
+        "MNO": "Sisak"
+      },
+      {
+        "Code": "47",
+        "MNO": "Karlovac"
+      },
+      {
+        "Code": "48",
+        "MNO": "Koprivnica"
+      },
+      {
+        "Code": "49",
+        "MNO": "Krapina"
+      },
+      {
+        "Code": "51",
+        "MNO": "Rijeka"
+      },
+      {
+        "Code": "52",
+        "MNO": "Pazin"
+      },
+      {
+        "Code": "53",
+        "MNO": "Gospic"
+      },
+      {
+        "Code": "91",
+        "MNO": "VIPnet"
+      },
+      {
+        "Code": "92",
+        "MNO": "VIPnet"
+      },
+      {
+        "Code": "95",
+        "MNO": "TELE2"
+      },
+      {
+        "Code": "98",
+        "MNO": "T-Mobile"
+      },
+      {
+        "Code": "99",
+        "MNO": "T-Mobile"
+      }
+    ]
+  },
+  {
+    "name": "Cuba",
+    "ISO31661Alpha2": "CU",
+    "Dial": "53",
+    "ISO4217currencyname": "Cuban Peso",
+    "Capital": "Havana",
+    "Continent": "NA",
+    "TLD": ".cu",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Curaçao",
+    "ISO31661Alpha2": "CW",
+    "Dial": "599",
+    "ISO4217currencyname": "Netherlands Antillean Guilder",
+    "Capital": "Willemstad",
+    "Continent": "NA",
+    "TLD": ".cw",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Cyprus",
+    "ISO31661Alpha2": "CY",
+    "Dial": "357",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Nicosia",
+    "Continent": "EU",
+    "TLD": ".cy",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Czechia",
+    "ISO31661Alpha2": "CZ",
+    "Dial": "420",
+    "ISO4217currencyname": "Czech Koruna",
+    "Capital": "Prague",
+    "Continent": "EU",
+    "TLD": ".cz",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Côte d’Ivoire",
+    "ISO31661Alpha2": "CI",
+    "Dial": "225",
+    "ISO4217currencyname": "CFA Franc BCEAO",
+    "Capital": "Yamoussoukro",
+    "Continent": "AF",
+    "TLD": ".ci",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Denmark",
+    "ISO31661Alpha2": "DK",
+    "Dial": "45",
+    "ISO4217currencyname": "Danish Krone",
+    "Capital": "Copenhagen",
+    "Continent": "EU",
+    "TLD": ".dk",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Djibouti",
+    "ISO31661Alpha2": "DJ",
+    "Dial": "253",
+    "ISO4217currencyname": "Djibouti Franc",
+    "Capital": "Djibouti",
+    "Continent": "AF",
+    "TLD": ".dj",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Ecuador",
+    "ISO31661Alpha2": "EC",
+    "Dial": "593",
+    "ISO4217currencyname": "US Dollar",
+    "Capital": "Quito",
+    "Continent": "SA",
+    "TLD": ".ec",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Egypt",
+    "ISO31661Alpha2": "EG",
+    "Dial": "20",
+    "ISO4217currencyname": "Egyptian Pound",
+    "Capital": "Cairo",
+    "Continent": "AF",
+    "TLD": ".eg",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "El Salvador",
+    "ISO31661Alpha2": "SV",
+    "Dial": "503",
+    "ISO4217currencyname": "US Dollar",
+    "Capital": "San Salvador",
+    "Continent": "NA",
+    "TLD": ".sv",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Equatorial Guinea",
+    "ISO31661Alpha2": "GQ",
+    "Dial": "240",
+    "ISO4217currencyname": "CFA Franc BEAC",
+    "Capital": "Malabo",
+    "Continent": "AF",
+    "TLD": ".gq",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Eritrea",
+    "ISO31661Alpha2": "ER",
+    "Dial": "291",
+    "ISO4217currencyname": "Nakfa",
+    "Capital": "Asmara",
+    "Continent": "AF",
+    "TLD": ".er",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Estonia",
+    "ISO31661Alpha2": "EE",
+    "Dial": "372",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Tallinn",
+    "Continent": "EU",
+    "TLD": ".ee",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Ethiopia",
+    "ISO31661Alpha2": "ET",
+    "Dial": "251",
+    "ISO4217currencyname": "Ethiopian Birr",
+    "Capital": "Addis Ababa",
+    "Continent": "AF",
+    "TLD": ".et",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Falkland Islands",
+    "ISO31661Alpha2": "FK",
+    "Dial": "500",
+    "ISO4217currencyname": "Falkland Islands Pound",
+    "Capital": "Stanley",
+    "Continent": "SA",
+    "TLD": ".fk",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Faroe Islands",
+    "ISO31661Alpha2": "FO",
+    "Dial": "298",
+    "ISO4217currencyname": "",
+    "Capital": "Torshavn",
+    "Continent": "EU",
+    "TLD": ".fo",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Fiji",
+    "ISO31661Alpha2": "FJ",
+    "Dial": "679",
+    "ISO4217currencyname": "Fiji Dollar",
+    "Capital": "Suva",
+    "Continent": "OC",
+    "TLD": ".fj",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Finland",
+    "ISO31661Alpha2": "FI",
+    "Dial": "358",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Helsinki",
+    "Continent": "EU",
+    "TLD": ".fi",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "France",
+    "ISO31661Alpha2": "FR",
+    "Dial": "33",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Paris",
+    "Continent": "EU",
+    "TLD": ".fr",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "French Guiana",
+    "ISO31661Alpha2": "GF",
+    "Dial": "594",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Cayenne",
+    "Continent": "SA",
+    "TLD": ".gf",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "French Polynesia",
+    "ISO31661Alpha2": "PF",
+    "Dial": "689",
+    "ISO4217currencyname": "CFP Franc",
+    "Capital": "Papeete",
+    "Continent": "OC",
+    "TLD": ".pf",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "French Southern Territories",
+    "ISO31661Alpha2": "TF",
+    "Dial": "262",
+    "ISO4217currencyname": "",
+    "Capital": "Port-aux-Francais",
+    "Continent": "AN",
+    "TLD": ".tf",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Gabon",
+    "ISO31661Alpha2": "GA",
+    "Dial": "241",
+    "ISO4217currencyname": "CFA Franc BEAC",
+    "Capital": "Libreville",
+    "Continent": "AF",
+    "TLD": ".ga",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Gambia",
+    "ISO31661Alpha2": "GM",
+    "Dial": "220",
+    "ISO4217currencyname": "Dalasi",
+    "Capital": "Banjul",
+    "Continent": "AF",
+    "TLD": ".gm",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Georgia",
+    "ISO31661Alpha2": "GE",
+    "Dial": "995",
+    "ISO4217currencyname": "Lari",
+    "Capital": "Tbilisi",
+    "Continent": "AS",
+    "TLD": ".ge",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Germany",
+    "ISO31661Alpha2": "DE",
+    "Dial": "49",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Berlin",
+    "Continent": "EU",
+    "TLD": ".de",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Ghana",
+    "ISO31661Alpha2": "GH",
+    "Dial": "233",
+    "ISO4217currencyname": "Ghana Cedi",
+    "Capital": "Accra",
+    "Continent": "AF",
+    "TLD": ".gh",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Gibraltar",
+    "ISO31661Alpha2": "GI",
+    "Dial": "350",
+    "ISO4217currencyname": "Gibraltar Pound",
+    "Capital": "Gibraltar",
+    "Continent": "EU",
+    "TLD": ".gi",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Greece",
+    "ISO31661Alpha2": "GR",
+    "Dial": "30",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Athens",
+    "Continent": "EU",
+    "TLD": ".gr",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Greenland",
+    "ISO31661Alpha2": "GL",
+    "Dial": "299",
+    "ISO4217currencyname": "Danish Krone",
+    "Capital": "Nuuk",
+    "Continent": "NA",
+    "TLD": ".gl",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Guadeloupe",
+    "ISO31661Alpha2": "GP",
+    "Dial": "590",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Basse-Terre",
+    "Continent": "NA",
+    "TLD": ".gp",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Guatemala",
+    "ISO31661Alpha2": "GT",
+    "Dial": "502",
+    "ISO4217currencyname": "Quetzal",
+    "Capital": "Guatemala City",
+    "Continent": "NA",
+    "TLD": ".gt",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Guernsey",
+    "ISO31661Alpha2": "GG",
+    "Dial": "44",
+    "ISO4217currencyname": "Pound Sterling",
+    "Capital": "St Peter Port",
+    "Continent": "EU",
+    "TLD": ".gg",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Guinea",
+    "ISO31661Alpha2": "GN",
+    "Dial": "224",
+    "ISO4217currencyname": "Guinea Franc",
+    "Capital": "Conakry",
+    "Continent": "AF",
+    "TLD": ".gn",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Guinea-Bissau",
+    "ISO31661Alpha2": "GW",
+    "Dial": "245",
+    "ISO4217currencyname": "CFA Franc BCEAO",
+    "Capital": "Bissau",
+    "Continent": "AF",
+    "TLD": ".gw",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Guyana",
+    "ISO31661Alpha2": "GY",
+    "Dial": "592",
+    "ISO4217currencyname": "Guyana Dollar",
+    "Capital": "Georgetown",
+    "Continent": "SA",
+    "TLD": ".gy",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Haiti",
+    "ISO31661Alpha2": "HT",
+    "Dial": "509",
+    "ISO4217currencyname": "US Dollar",
+    "Capital": "Port-au-Prince",
+    "Continent": "NA",
+    "TLD": ".ht",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Heard & McDonald Islands",
+    "ISO31661Alpha2": "HM",
+    "Dial": "672",
+    "ISO4217currencyname": "",
+    "Capital": "",
+    "Continent": "AN",
+    "TLD": ".hm",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Honduras",
+    "ISO31661Alpha2": "HN",
+    "Dial": "504",
+    "ISO4217currencyname": "Lempira",
+    "Capital": "Tegucigalpa",
+    "Continent": "NA",
+    "TLD": ".hn",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Hong Kong",
+    "ISO31661Alpha2": "HK",
+    "Dial": "852",
+    "ISO4217currencyname": "",
+    "Capital": "Hong Kong",
+    "Continent": "AS",
+    "TLD": ".hk",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Hungary",
+    "ISO31661Alpha2": "HU",
+    "Dial": "36",
+    "ISO4217currencyname": "Forint",
+    "Capital": "Budapest",
+    "Continent": "EU",
+    "TLD": ".hu",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Iceland",
+    "ISO31661Alpha2": "IS",
+    "Dial": "354",
+    "ISO4217currencyname": "Iceland Krona",
+    "Capital": "Reykjavik",
+    "Continent": "EU",
+    "TLD": ".is",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "India",
+    "ISO31661Alpha2": "IN",
+    "Dial": "91",
+    "ISO4217currencyname": "Indian Rupee",
+    "Capital": "New Delhi",
+    "Continent": "AS",
+    "TLD": ".in",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Indonesia",
+    "ISO31661Alpha2": "ID",
+    "Dial": "62",
+    "ISO4217currencyname": "Rupiah",
+    "Capital": "Jakarta",
+    "Continent": "AS",
+    "TLD": ".id",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Iran",
+    "ISO31661Alpha2": "IR",
+    "Dial": "98",
+    "ISO4217currencyname": "Iranian Rial",
+    "Capital": "Tehran",
+    "Continent": "AS",
+    "TLD": ".ir",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Iraq",
+    "ISO31661Alpha2": "IQ",
+    "Dial": "964",
+    "ISO4217currencyname": "Iraqi Dinar",
+    "Capital": "Baghdad",
+    "Continent": "AS",
+    "TLD": ".iq",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Ireland",
+    "ISO31661Alpha2": "IE",
+    "Dial": "353",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Dublin",
+    "Continent": "EU",
+    "TLD": ".ie",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Isle of Man",
+    "ISO31661Alpha2": "IM",
+    "Dial": "44",
+    "ISO4217currencyname": "Pound Sterling",
+    "Capital": "Douglas",
+    "Continent": "EU",
+    "TLD": ".im",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Israel",
+    "ISO31661Alpha2": "IL",
+    "Dial": "972",
+    "ISO4217currencyname": "New Israeli Sheqel",
+    "Capital": "Jerusalem",
+    "Continent": "AS",
+    "TLD": ".il",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Italy",
+    "ISO31661Alpha2": "IT",
+    "Dial": "39",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Rome",
+    "Continent": "EU",
+    "TLD": ".it",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Japan",
+    "ISO31661Alpha2": "JP",
+    "Dial": "81",
+    "ISO4217currencyname": "Yen",
+    "Capital": "Tokyo",
+    "Continent": "AS",
+    "TLD": ".jp",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Jersey",
+    "ISO31661Alpha2": "JE",
+    "Dial": "44",
+    "ISO4217currencyname": "Pound Sterling",
+    "Capital": "Saint Helier",
+    "Continent": "EU",
+    "TLD": ".je",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Jordan",
+    "ISO31661Alpha2": "JO",
+    "Dial": "962",
+    "ISO4217currencyname": "Jordanian Dinar",
+    "Capital": "Amman",
+    "Continent": "AS",
+    "TLD": ".jo",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Kazakhstan",
+    "ISO31661Alpha2": "KZ",
+    "Dial": "7",
+    "ISO4217currencyname": "Tenge",
+    "Capital": "Astana",
+    "Continent": "AS",
+    "TLD": ".kz",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Kenya",
+    "ISO31661Alpha2": "KE",
+    "Dial": "254",
+    "ISO4217currencyname": "Kenyan Shilling",
+    "Capital": "Nairobi",
+    "Continent": "AF",
+    "TLD": ".ke",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Kiribati",
+    "ISO31661Alpha2": "KI",
+    "Dial": "686",
+    "ISO4217currencyname": "Australian Dollar",
+    "Capital": "Tarawa",
+    "Continent": "OC",
+    "TLD": ".ki",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Kuwait",
+    "ISO31661Alpha2": "KW",
+    "Dial": "965",
+    "ISO4217currencyname": "Kuwaiti Dinar",
+    "Capital": "Kuwait City",
+    "Continent": "AS",
+    "TLD": ".kw",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Kyrgyzstan",
+    "ISO31661Alpha2": "KG",
+    "Dial": "996",
+    "ISO4217currencyname": "Som",
+    "Capital": "Bishkek",
+    "Continent": "AS",
+    "TLD": ".kg",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Laos",
+    "ISO31661Alpha2": "LA",
+    "Dial": "856",
+    "ISO4217currencyname": "Kip",
+    "Capital": "Vientiane",
+    "Continent": "AS",
+    "TLD": ".la",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Latvia",
+    "ISO31661Alpha2": "LV",
+    "Dial": "371",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Riga",
+    "Continent": "EU",
+    "TLD": ".lv",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Lebanon",
+    "ISO31661Alpha2": "LB",
+    "Dial": "961",
+    "ISO4217currencyname": "Lebanese Pound",
+    "Capital": "Beirut",
+    "Continent": "AS",
+    "TLD": ".lb",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Lesotho",
+    "ISO31661Alpha2": "LS",
+    "Dial": "266",
+    "ISO4217currencyname": "Rand",
+    "Capital": "Maseru",
+    "Continent": "AF",
+    "TLD": ".ls",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Liberia",
+    "ISO31661Alpha2": "LR",
+    "Dial": "231",
+    "ISO4217currencyname": "Liberian Dollar",
+    "Capital": "Monrovia",
+    "Continent": "AF",
+    "TLD": ".lr",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Libya",
+    "ISO31661Alpha2": "LY",
+    "Dial": "218",
+    "ISO4217currencyname": "Libyan Dinar",
+    "Capital": "Tripoli",
+    "Continent": "AF",
+    "TLD": ".ly",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Liechtenstein",
+    "ISO31661Alpha2": "LI",
+    "Dial": "423",
+    "ISO4217currencyname": "Swiss Franc",
+    "Capital": "Vaduz",
+    "Continent": "EU",
+    "TLD": ".li",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Lithuania",
+    "ISO31661Alpha2": "LT",
+    "Dial": "370",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Vilnius",
+    "Continent": "EU",
+    "TLD": ".lt",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Luxembourg",
+    "ISO31661Alpha2": "LU",
+    "Dial": "352",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Luxembourg",
+    "Continent": "EU",
+    "TLD": ".lu",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Macau",
+    "ISO31661Alpha2": "MO",
+    "Dial": "853",
+    "ISO4217currencyname": "Pataca",
+    "Capital": "Macao",
+    "Continent": "AS",
+    "TLD": ".mo",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Macedonia",
+    "ISO31661Alpha2": "MK",
+    "Dial": "389",
+    "ISO4217currencyname": "Denar",
+    "Capital": "Skopje",
+    "Continent": "EU",
+    "TLD": ".mk",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Madagascar",
+    "ISO31661Alpha2": "MG",
+    "Dial": "261",
+    "ISO4217currencyname": "Malagasy Ariary",
+    "Capital": "Antananarivo",
+    "Continent": "AF",
+    "TLD": ".mg",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Malawi",
+    "ISO31661Alpha2": "MW",
+    "Dial": "265",
+    "ISO4217currencyname": "Kwacha",
+    "Capital": "Lilongwe",
+    "Continent": "AF",
+    "TLD": ".mw",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Malaysia",
+    "ISO31661Alpha2": "MY",
+    "Dial": "60",
+    "ISO4217currencyname": "Malaysian Ringgit",
+    "Capital": "Kuala Lumpur",
+    "Continent": "AS",
+    "TLD": ".my",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Maldives",
+    "ISO31661Alpha2": "MV",
+    "Dial": "960",
+    "ISO4217currencyname": "Rufiyaa",
+    "Capital": "Male",
+    "Continent": "AS",
+    "TLD": ".mv",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Mali",
+    "ISO31661Alpha2": "ML",
+    "Dial": "223",
+    "ISO4217currencyname": "CFA Franc BCEAO",
+    "Capital": "Bamako",
+    "Continent": "AF",
+    "TLD": ".ml",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Malta",
+    "ISO31661Alpha2": "MT",
+    "Dial": "356",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Valletta",
+    "Continent": "EU",
+    "TLD": ".mt",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Marshall Islands",
+    "ISO31661Alpha2": "MH",
+    "Dial": "692",
+    "ISO4217currencyname": "US Dollar",
+    "Capital": "Majuro",
+    "Continent": "OC",
+    "TLD": ".mh",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Martinique",
+    "ISO31661Alpha2": "MQ",
+    "Dial": "596",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Fort-de-France",
+    "Continent": "NA",
+    "TLD": ".mq",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Mauritania",
+    "ISO31661Alpha2": "MR",
+    "Dial": "222",
+    "ISO4217currencyname": "Ouguiya",
+    "Capital": "Nouakchott",
+    "Continent": "AF",
+    "TLD": ".mr",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Mauritius",
+    "ISO31661Alpha2": "MU",
+    "Dial": "230",
+    "ISO4217currencyname": "Mauritius Rupee",
+    "Capital": "Port Louis",
+    "Continent": "AF",
+    "TLD": ".mu",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Mayotte",
+    "ISO31661Alpha2": "YT",
+    "Dial": "262",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Mamoudzou",
+    "Continent": "AF",
+    "TLD": ".yt",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Mexico",
+    "ISO31661Alpha2": "MX",
+    "Dial": "52",
+    "ISO4217currencyname": "Mexican Peso",
+    "Capital": "Mexico City",
+    "Continent": "NA",
+    "TLD": ".mx",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Micronesia",
+    "ISO31661Alpha2": "FM",
+    "Dial": "691",
+    "ISO4217currencyname": "US Dollar",
+    "Capital": "Palikir",
+    "Continent": "OC",
+    "TLD": ".fm",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Moldova",
+    "ISO31661Alpha2": "MD",
+    "Dial": "373",
+    "ISO4217currencyname": "Moldovan Leu",
+    "Capital": "Chisinau",
+    "Continent": "EU",
+    "TLD": ".md",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Monaco",
+    "ISO31661Alpha2": "MC",
+    "Dial": "377",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Monaco",
+    "Continent": "EU",
+    "TLD": ".mc",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Mongolia",
+    "ISO31661Alpha2": "MN",
+    "Dial": "976",
+    "ISO4217currencyname": "Tugrik",
+    "Capital": "Ulan Bator",
+    "Continent": "AS",
+    "TLD": ".mn",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Montenegro",
+    "ISO31661Alpha2": "ME",
+    "Dial": "382",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Podgorica",
+    "Continent": "EU",
+    "TLD": ".me",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Montserrat",
+    "ISO31661Alpha2": "MS",
+    "Dial": "1664",
+    "ISO4217currencyname": "East Caribbean Dollar",
+    "Capital": "Plymouth",
+    "Continent": "NA",
+    "TLD": ".ms",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Morocco",
+    "ISO31661Alpha2": "MA",
+    "Dial": "212",
+    "ISO4217currencyname": "Moroccan Dirham",
+    "Capital": "Rabat",
+    "Continent": "AF",
+    "TLD": ".ma",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Mozambique",
+    "ISO31661Alpha2": "MZ",
+    "Dial": "258",
+    "ISO4217currencyname": "Mozambique Metical",
+    "Capital": "Maputo",
+    "Continent": "AF",
+    "TLD": ".mz",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Myanmar",
+    "ISO31661Alpha2": "MM",
+    "Dial": "95",
+    "ISO4217currencyname": "Kyat",
+    "Capital": "Nay Pyi Taw",
+    "Continent": "AS",
+    "TLD": ".mm",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Namibia",
+    "ISO31661Alpha2": "NA",
+    "Dial": "264",
+    "ISO4217currencyname": "Rand",
+    "Capital": "Windhoek",
+    "Continent": "AF",
+    "TLD": ".na",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Nauru",
+    "ISO31661Alpha2": "NR",
+    "Dial": "674",
+    "ISO4217currencyname": "Australian Dollar",
+    "Capital": "Yaren",
+    "Continent": "OC",
+    "TLD": ".nr",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Nepal",
+    "ISO31661Alpha2": "NP",
+    "Dial": "977",
+    "ISO4217currencyname": "Nepalese Rupee",
+    "Capital": "Kathmandu",
+    "Continent": "AS",
+    "TLD": ".np",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Netherlands",
+    "ISO31661Alpha2": "NL",
+    "Dial": "31",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Amsterdam",
+    "Continent": "EU",
+    "TLD": ".nl",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "New Caledonia",
+    "ISO31661Alpha2": "NC",
+    "Dial": "687",
+    "ISO4217currencyname": "CFP Franc",
+    "Capital": "Noumea",
+    "Continent": "OC",
+    "TLD": ".nc",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "New Zealand",
+    "ISO31661Alpha2": "NZ",
+    "Dial": "64",
+    "ISO4217currencyname": "New Zealand Dollar",
+    "Capital": "Wellington",
+    "Continent": "OC",
+    "TLD": ".nz",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Nicaragua",
+    "ISO31661Alpha2": "NI",
+    "Dial": "505",
+    "ISO4217currencyname": "Cordoba Oro",
+    "Capital": "Managua",
+    "Continent": "NA",
+    "TLD": ".ni",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Niger",
+    "ISO31661Alpha2": "NE",
+    "Dial": "227",
+    "ISO4217currencyname": "CFA Franc BCEAO",
+    "Capital": "Niamey",
+    "Continent": "AF",
+    "TLD": ".ne",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Nigeria",
+    "ISO31661Alpha2": "NG",
+    "Dial": "234",
+    "ISO4217currencyname": "Naira",
+    "Capital": "Abuja",
+    "Continent": "AF",
+    "TLD": ".ng",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Niue",
+    "ISO31661Alpha2": "NU",
+    "Dial": "683",
+    "ISO4217currencyname": "New Zealand Dollar",
+    "Capital": "Alofi",
+    "Continent": "OC",
+    "TLD": ".nu",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Norfolk Island",
+    "ISO31661Alpha2": "NF",
+    "Dial": "672",
+    "ISO4217currencyname": "Australian Dollar",
+    "Capital": "Kingston",
+    "Continent": "OC",
+    "TLD": ".nf",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "North Korea",
+    "ISO31661Alpha2": "KP",
+    "Dial": "850",
+    "ISO4217currencyname": "North Korean Won",
+    "Capital": "Pyongyang",
+    "Continent": "AS",
+    "TLD": ".kp",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "ISO31661Alpha2": "MP",
+    "Dial": "1670",
+    "ISO4217currencyname": "US Dollar",
+    "Capital": "Saipan",
+    "Continent": "OC",
+    "TLD": ".mp",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Norway",
+    "ISO31661Alpha2": "NO",
+    "Dial": "47",
+    "ISO4217currencyname": "Norwegian Krone",
+    "Capital": "Oslo",
+    "Continent": "EU",
+    "TLD": ".no",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Oman",
+    "ISO31661Alpha2": "OM",
+    "Dial": "968",
+    "ISO4217currencyname": "Rial Omani",
+    "Capital": "Muscat",
+    "Continent": "AS",
+    "TLD": ".om",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Pakistan",
+    "ISO31661Alpha2": "PK",
+    "Dial": "92",
+    "ISO4217currencyname": "Pakistan Rupee",
+    "Capital": "Islamabad",
+    "Continent": "AS",
+    "TLD": ".pk",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Palau",
+    "ISO31661Alpha2": "PW",
+    "Dial": "680",
+    "ISO4217currencyname": "US Dollar",
+    "Capital": "Melekeok",
+    "Continent": "OC",
+    "TLD": ".pw",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Palestine",
+    "ISO31661Alpha2": "PS",
+    "Dial": "970",
+    "ISO4217currencyname": "No universal currency",
+    "Capital": "East Jerusalem",
+    "Continent": "AS",
+    "TLD": ".ps",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Panama",
+    "ISO31661Alpha2": "PA",
+    "Dial": "507",
+    "ISO4217currencyname": "US Dollar",
+    "Capital": "Panama City",
+    "Continent": "NA",
+    "TLD": ".pa",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Papua New Guinea",
+    "ISO31661Alpha2": "PG",
+    "Dial": "675",
+    "ISO4217currencyname": "Kina",
+    "Capital": "Port Moresby",
+    "Continent": "OC",
+    "TLD": ".pg",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Paraguay",
+    "ISO31661Alpha2": "PY",
+    "Dial": "595",
+    "ISO4217currencyname": "Guarani",
+    "Capital": "Asuncion",
+    "Continent": "SA",
+    "TLD": ".py",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Peru",
+    "ISO31661Alpha2": "PE",
+    "Dial": "51",
+    "ISO4217currencyname": "Nuevo Sol",
+    "Capital": "Lima",
+    "Continent": "SA",
+    "TLD": ".pe",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Philippines",
+    "ISO31661Alpha2": "PH",
+    "Dial": "63",
+    "ISO4217currencyname": "Philippine Peso",
+    "Capital": "Manila",
+    "Continent": "AS",
+    "TLD": ".ph",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Pitcairn Islands",
+    "ISO31661Alpha2": "PN",
+    "Dial": "870",
+    "ISO4217currencyname": "New Zealand Dollar",
+    "Capital": "Adamstown",
+    "Continent": "OC",
+    "TLD": ".pn",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Poland",
+    "ISO31661Alpha2": "PL",
+    "Dial": "48",
+    "ISO4217currencyname": "Zloty",
+    "Capital": "Warsaw",
+    "Continent": "EU",
+    "TLD": ".pl",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Portugal",
+    "ISO31661Alpha2": "PT",
+    "Dial": "351",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Lisbon",
+    "Continent": "EU",
+    "TLD": ".pt",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Qatar",
+    "ISO31661Alpha2": "QA",
+    "Dial": "974",
+    "ISO4217currencyname": "Qatari Rial",
+    "Capital": "Doha",
+    "Continent": "AS",
+    "TLD": ".qa",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Romania",
+    "ISO31661Alpha2": "RO",
+    "Dial": "40",
+    "ISO4217currencyname": "New Romanian Leu",
+    "Capital": "Bucharest",
+    "Continent": "EU",
+    "TLD": ".ro",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Russia",
+    "ISO31661Alpha2": "RU",
+    "Dial": "7",
+    "ISO4217currencyname": "Russian Ruble",
+    "Capital": "Moscow",
+    "Continent": "EU",
+    "TLD": ".ru",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Rwanda",
+    "ISO31661Alpha2": "RW",
+    "Dial": "250",
+    "ISO4217currencyname": "Rwanda Franc",
+    "Capital": "Kigali",
+    "Continent": "AF",
+    "TLD": ".rw",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Réunion",
+    "ISO31661Alpha2": "RE",
+    "Dial": "262",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Saint-Denis",
+    "Continent": "AF",
+    "TLD": ".re",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Samoa",
+    "ISO31661Alpha2": "WS",
+    "Dial": "685",
+    "ISO4217currencyname": "Tala",
+    "Capital": "Apia",
+    "Continent": "OC",
+    "TLD": ".ws",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "San Marino",
+    "ISO31661Alpha2": "SM",
+    "Dial": "378",
+    "ISO4217currencyname": "Euro",
+    "Capital": "San Marino",
+    "Continent": "EU",
+    "TLD": ".sm",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Saudi Arabia",
+    "ISO31661Alpha2": "SA",
+    "Dial": "966",
+    "ISO4217currencyname": "Saudi Riyal",
+    "Capital": "Riyadh",
+    "Continent": "AS",
+    "TLD": ".sa",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Senegal",
+    "ISO31661Alpha2": "SN",
+    "Dial": "221",
+    "ISO4217currencyname": "CFA Franc BCEAO",
+    "Capital": "Dakar",
+    "Continent": "AF",
+    "TLD": ".sn",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Serbia",
+    "ISO31661Alpha2": "RS",
+    "Dial": "381 p",
+    "ISO4217currencyname": "Serbian Dinar",
+    "Capital": "Belgrade",
+    "Continent": "EU",
+    "TLD": ".rs",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Seychelles",
+    "ISO31661Alpha2": "SC",
+    "Dial": "248",
+    "ISO4217currencyname": "Seychelles Rupee",
+    "Capital": "Victoria",
+    "Continent": "AF",
+    "TLD": ".sc",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Sierra Leone",
+    "ISO31661Alpha2": "SL",
+    "Dial": "232",
+    "ISO4217currencyname": "Leone",
+    "Capital": "Freetown",
+    "Continent": "AF",
+    "TLD": ".sl",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Singapore",
+    "ISO31661Alpha2": "SG",
+    "Dial": "65",
+    "ISO4217currencyname": "Singapore Dollar",
+    "Capital": "Singapore",
+    "Continent": "AS",
+    "TLD": ".sg",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Sint Maarten",
+    "ISO31661Alpha2": "SX",
+    "Dial": "1721",
+    "ISO4217currencyname": "Netherlands Antillean Guilder",
+    "Capital": "Philipsburg",
+    "Continent": "NA",
+    "TLD": ".sx",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Slovakia",
+    "ISO31661Alpha2": "SK",
+    "Dial": "421",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Bratislava",
+    "Continent": "EU",
+    "TLD": ".sk",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Slovenia",
+    "ISO31661Alpha2": "SI",
+    "Dial": "386",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Ljubljana",
+    "Continent": "EU",
+    "TLD": ".si",
+    "NDCMin": 2,
+    "NDCMax": 2,
+    "Codes": [
+      {
+        "Code": "68",
+        "MNO": "SI.MOBIL d.d."
+      },
+      {
+        "Code": "40",
+        "MNO": "SI.MOBIL d.d."
+      },
+      {
+        "Code": "30",
+        "MNO": "SI.MOBIL d.d."
+      },
+      {
+        "Code": "64",
+        "MNO": "T - 2 d.o.o."
+      },
+      {
+        "Code": "51",
+        "MNO": "TELEKOM SLOVENIJE, d.d."
+      },
+      {
+        "Code": "49",
+        "MNO": "TELEKOM SLOVENIJE, d.d."
+      },
+      {
+        "Code": "41",
+        "MNO": "TELEKOM SLOVENIJE, d.d."
+      },
+      {
+        "Code": "31",
+        "MNO": "TELEKOM SLOVENIJE, d.d."
+      },
+      {
+        "Code": "70",
+        "MNO": "Telemach d.o.o."
+      },
+      {
+        "Code": "01",
+        "MNO": "Ljubljana"
+      },
+      {
+        "Code": "02",
+        "MNO": "Maribor, Murska Sobota, Ravne na Koroškem"
+      },
+      {
+        "Code": "03",
+        "MNO": "Celje, Trbovlje"
+      },
+      {
+        "Code": "04",
+        "MNO": "Kranj"
+      },
+      {
+        "Code": "05",
+        "MNO": "Koper, Postojna, Nova Gorica"
+      },
+      {
+        "Code": "06",
+        "MNO": "Novo Mesto, Krško"
+      },
+      {
+        "Code": "07",
+        "MNO": "Telemach"
+      }
+    ]
+  },
+  {
+    "name": "Solomon Islands",
+    "ISO31661Alpha2": "SB",
+    "Dial": "677",
+    "ISO4217currencyname": "Solomon Islands Dollar",
+    "Capital": "Honiara",
+    "Continent": "OC",
+    "TLD": ".sb",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Somalia",
+    "ISO31661Alpha2": "SO",
+    "Dial": "252",
+    "ISO4217currencyname": "Somali Shilling",
+    "Capital": "Mogadishu",
+    "Continent": "AF",
+    "TLD": ".so",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "South Africa",
+    "ISO31661Alpha2": "ZA",
+    "Dial": "27",
+    "ISO4217currencyname": "Rand",
+    "Capital": "Pretoria",
+    "Continent": "AF",
+    "TLD": ".za",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "South Georgia & South Sandwich Islands",
+    "ISO31661Alpha2": "GS",
+    "Dial": "500",
+    "ISO4217currencyname": "",
+    "Capital": "Grytviken",
+    "Continent": "AN",
+    "TLD": ".gs",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "South Korea",
+    "ISO31661Alpha2": "KR",
+    "Dial": "82",
+    "ISO4217currencyname": "Won",
+    "Capital": "Seoul",
+    "Continent": "AS",
+    "TLD": ".kr",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "South Sudan",
+    "ISO31661Alpha2": "SS",
+    "Dial": "211",
+    "ISO4217currencyname": "South Sudanese Pound",
+    "Capital": "Juba",
+    "Continent": "AF",
+    "TLD": "",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Spain",
+    "ISO31661Alpha2": "ES",
+    "Dial": "34",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Madrid",
+    "Continent": "EU",
+    "TLD": ".es",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Sri Lanka",
+    "ISO31661Alpha2": "LK",
+    "Dial": "94",
+    "ISO4217currencyname": "Sri Lanka Rupee",
+    "Capital": "Colombo",
+    "Continent": "AS",
+    "TLD": ".lk",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "St. Barthélemy",
+    "ISO31661Alpha2": "BL",
+    "Dial": "590",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Gustavia",
+    "Continent": "NA",
+    "TLD": ".gp",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "St. Helena",
+    "ISO31661Alpha2": "SH",
+    "Dial": "290 n",
+    "ISO4217currencyname": "Saint Helena Pound",
+    "Capital": "Jamestown",
+    "Continent": "AF",
+    "TLD": ".sh",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "St. Kitts & Nevis",
+    "ISO31661Alpha2": "KN",
+    "Dial": "1869",
+    "ISO4217currencyname": "East Caribbean Dollar",
+    "Capital": "Basseterre",
+    "Continent": "NA",
+    "TLD": ".kn",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "St. Martin",
+    "ISO31661Alpha2": "MF",
+    "Dial": "590",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Marigot",
+    "Continent": "NA",
+    "TLD": ".gp",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "St. Pierre & Miquelon",
+    "ISO31661Alpha2": "PM",
+    "Dial": "508",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Saint-Pierre",
+    "Continent": "NA",
+    "TLD": ".pm",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Sudan",
+    "ISO31661Alpha2": "SD",
+    "Dial": "249",
+    "ISO4217currencyname": "Sudanese Pound",
+    "Capital": "Khartoum",
+    "Continent": "AF",
+    "TLD": ".sd",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Suriname",
+    "ISO31661Alpha2": "SR",
+    "Dial": "597",
+    "ISO4217currencyname": "Surinam Dollar",
+    "Capital": "Paramaribo",
+    "Continent": "SA",
+    "TLD": ".sr",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Svalbard & Jan Mayen",
+    "ISO31661Alpha2": "SJ",
+    "Dial": "47",
+    "ISO4217currencyname": "Norwegian Krone",
+    "Capital": "Longyearbyen",
+    "Continent": "EU",
+    "TLD": ".sj",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Swaziland",
+    "ISO31661Alpha2": "SZ",
+    "Dial": "268",
+    "ISO4217currencyname": "Lilangeni",
+    "Capital": "Mbabane",
+    "Continent": "AF",
+    "TLD": ".sz",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Sweden",
+    "ISO31661Alpha2": "SE",
+    "Dial": "46",
+    "ISO4217currencyname": "Swedish Krona",
+    "Capital": "Stockholm",
+    "Continent": "EU",
+    "TLD": ".se",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Switzerland",
+    "ISO31661Alpha2": "CH",
+    "Dial": "41",
+    "ISO4217currencyname": "Swiss Franc",
+    "Capital": "Bern",
+    "Continent": "EU",
+    "TLD": ".ch",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Syria",
+    "ISO31661Alpha2": "SY",
+    "Dial": "963",
+    "ISO4217currencyname": "Syrian Pound",
+    "Capital": "Damascus",
+    "Continent": "AS",
+    "TLD": ".sy",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "São Tomé & Príncipe",
+    "ISO31661Alpha2": "ST",
+    "Dial": "239",
+    "ISO4217currencyname": "Dobra",
+    "Capital": "Sao Tome",
+    "Continent": "AF",
+    "TLD": ".st",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Taiwan",
+    "ISO31661Alpha2": "TW",
+    "Dial": "886",
+    "ISO4217currencyname": "",
+    "Capital": "Taipei",
+    "Continent": "AS",
+    "TLD": ".tw",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Tajikistan",
+    "ISO31661Alpha2": "TJ",
+    "Dial": "992",
+    "ISO4217currencyname": "Somoni",
+    "Capital": "Dushanbe",
+    "Continent": "AS",
+    "TLD": ".tj",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Tanzania",
+    "ISO31661Alpha2": "TZ",
+    "Dial": "255",
+    "ISO4217currencyname": "Tanzanian Shilling",
+    "Capital": "Dodoma",
+    "Continent": "AF",
+    "TLD": ".tz",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Thailand",
+    "ISO31661Alpha2": "TH",
+    "Dial": "66",
+    "ISO4217currencyname": "Baht",
+    "Capital": "Bangkok",
+    "Continent": "AS",
+    "TLD": ".th",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Timor-Leste",
+    "ISO31661Alpha2": "TL",
+    "Dial": "670",
+    "ISO4217currencyname": "US Dollar",
+    "Capital": "Dili",
+    "Continent": "OC",
+    "TLD": ".tl",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Togo",
+    "ISO31661Alpha2": "TG",
+    "Dial": "228",
+    "ISO4217currencyname": "CFA Franc BCEAO",
+    "Capital": "Lome",
+    "Continent": "AF",
+    "TLD": ".tg",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Tokelau",
+    "ISO31661Alpha2": "TK",
+    "Dial": "690",
+    "ISO4217currencyname": "New Zealand Dollar",
+    "Capital": "",
+    "Continent": "OC",
+    "TLD": ".tk",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Tonga",
+    "ISO31661Alpha2": "TO",
+    "Dial": "676",
+    "ISO4217currencyname": "Pa’anga",
+    "Capital": "Nuku'alofa",
+    "Continent": "OC",
+    "TLD": ".to",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Tunisia",
+    "ISO31661Alpha2": "TN",
+    "Dial": "216",
+    "ISO4217currencyname": "Tunisian Dinar",
+    "Capital": "Tunis",
+    "Continent": "AF",
+    "TLD": ".tn",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Turkey",
+    "ISO31661Alpha2": "TR",
+    "Dial": "90",
+    "ISO4217currencyname": "Turkish Lira",
+    "Capital": "Ankara",
+    "Continent": "AS",
+    "TLD": ".tr",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Turkmenistan",
+    "ISO31661Alpha2": "TM",
+    "Dial": "993",
+    "ISO4217currencyname": "Turkmenistan New Manat",
+    "Capital": "Ashgabat",
+    "Continent": "AS",
+    "TLD": ".tm",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Tuvalu",
+    "ISO31661Alpha2": "TV",
+    "Dial": "688",
+    "ISO4217currencyname": "Australian Dollar",
+    "Capital": "Funafuti",
+    "Continent": "OC",
+    "TLD": ".tv",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "UK",
+    "ISO31661Alpha2": "GB",
+    "Dial": "44",
+    "ISO4217currencyname": "Pound Sterling",
+    "Capital": "London",
+    "Continent": "EU",
+    "TLD": ".uk",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "US",
+    "ISO31661Alpha2": "US",
+    "Dial": "1",
+    "ISO4217currencyname": "US Dollar",
+    "Capital": "Washington",
+    "Continent": "NA",
+    "TLD": ".us",
+    "NDCMin": 3,
+    "NDCMax": 3
+  },
+  {
+    "name": "Uganda",
+    "ISO31661Alpha2": "UG",
+    "Dial": "256",
+    "ISO4217currencyname": "Uganda Shilling",
+    "Capital": "Kampala",
+    "Continent": "AF",
+    "TLD": ".ug",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Ukraine",
+    "ISO31661Alpha2": "UA",
+    "Dial": "380",
+    "ISO4217currencyname": "Hryvnia",
+    "Capital": "Kiev",
+    "Continent": "EU",
+    "TLD": ".ua",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "United Arab Emirates",
+    "ISO31661Alpha2": "AE",
+    "Dial": "971",
+    "ISO4217currencyname": "UAE Dirham",
+    "Capital": "Abu Dhabi",
+    "Continent": "AS",
+    "TLD": ".ae",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Uruguay",
+    "ISO31661Alpha2": "UY",
+    "Dial": "598",
+    "ISO4217currencyname": "Peso Uruguayo",
+    "Capital": "Montevideo",
+    "Continent": "SA",
+    "TLD": ".uy",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Uzbekistan",
+    "ISO31661Alpha2": "UZ",
+    "Dial": "998",
+    "ISO4217currencyname": "Uzbekistan Sum",
+    "Capital": "Tashkent",
+    "Continent": "AS",
+    "TLD": ".uz",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Vanuatu",
+    "ISO31661Alpha2": "VU",
+    "Dial": "678",
+    "ISO4217currencyname": "Vatu",
+    "Capital": "Port Vila",
+    "Continent": "OC",
+    "TLD": ".vu",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Vatican City",
+    "ISO31661Alpha2": "VA",
+    "Dial": "3906",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Vatican City",
+    "Continent": "EU",
+    "TLD": ".va",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Venezuela",
+    "ISO31661Alpha2": "VE",
+    "Dial": "58",
+    "ISO4217currencyname": "Bolivar",
+    "Capital": "Caracas",
+    "Continent": "SA",
+    "TLD": ".ve",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Vietnam",
+    "ISO31661Alpha2": "VN",
+    "Dial": "84",
+    "ISO4217currencyname": "Dong",
+    "Capital": "Hanoi",
+    "Continent": "AS",
+    "TLD": ".vn",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Wallis & Futuna",
+    "ISO31661Alpha2": "WF",
+    "Dial": "681",
+    "ISO4217currencyname": "CFP Franc",
+    "Capital": "Mata Utu",
+    "Continent": "OC",
+    "TLD": ".wf",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Western Sahara",
+    "ISO31661Alpha2": "EH",
+    "Dial": "212",
+    "ISO4217currencyname": "Moroccan Dirham",
+    "Capital": "El-Aaiun",
+    "Continent": "AF",
+    "TLD": ".eh",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Yemen",
+    "ISO31661Alpha2": "YE",
+    "Dial": "967",
+    "ISO4217currencyname": "Yemeni Rial",
+    "Capital": "Sanaa",
+    "Continent": "AS",
+    "TLD": ".ye",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Zambia",
+    "ISO31661Alpha2": "ZM",
+    "Dial": "260",
+    "ISO4217currencyname": "Zambian Kwacha",
+    "Capital": "Lusaka",
+    "Continent": "AF",
+    "TLD": ".zm",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Zimbabwe",
+    "ISO31661Alpha2": "ZW",
+    "Dial": "263",
+    "ISO4217currencyname": "Zimbabwe Dollar",
+    "Capital": "Harare",
+    "Continent": "AF",
+    "TLD": ".zw",
+    "NDCMin": 2,
+    "NDCMax": 2
+  },
+  {
+    "name": "Aland Islands",
+    "ISO31661Alpha2": "AX",
+    "Dial": "358",
+    "ISO4217currencyname": "Euro",
+    "Capital": "Mariehamn",
+    "Continent": "EU",
+    "TLD": ".ax",
+    "NDCMin": 2,
+    "NDCMax": 2
+  }
+]
