@@ -4,7 +4,7 @@
 	class JsonRpcServer
 	{
 		public function splitMSISDN($splitMSISDN){
-			$MSISDN = str_replace('-','',str_replace(' ','',ltrim(trim($splitMSISDN),"+")));			
+			$MSISDN = str_replace('-','',str_replace(' ','',ltrim(ltrim(trim($splitMSISDN),"+"),"00")));			
 			$countries = json_decode(file_get_contents("../data/countries.json"));
 			
 			for ($x = 3; $x >= 1; $x--) {
