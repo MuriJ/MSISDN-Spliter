@@ -1,2 +1,1 @@
-cd..
 vagrant destroy
