@@ -31,7 +31,7 @@ Sample:
   }  
   
 
-The package is exposed through a json-rpc.php API, it is a very simple and useful class that is very easy to set up and it simply works.  
+The package is exposed through a json-rpc.php API from https://ptrofimov.wordpress.com/2011/04/27/php-class-to-implement-json-rpc-2-0-protocol, it is a very simple class that is easy to set up and it simply works.  
 
 In order to test and run the program VirtualBox and Vagrant need to be installed on your machine and then you can test it with a web page or CLI.  
 
