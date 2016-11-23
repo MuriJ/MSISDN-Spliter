@@ -4,9 +4,27 @@
 	class JsonRpcServer
 	{
 		public function splitMSISDN($splitMSISDN){
-			$MSISDN = str_replace('-','',str_replace(' ','',ltrim(ltrim(trim($splitMSISDN),"+"),"00")));			
-			$countries = json_decode(file_get_contents("../data/countries.json"));
+			$MSISDN = str_replace('-','',str_replace(' ','',ltrim(ltrim(trim($splitMSISDN),"+"),"00")));
+			$out = new stdClass;
 			
+			if(empty($MSISDN)){
+				$out->Error = "Input a number.";
+				return json_encode($out);
+			}
+			if(!is_numeric($MSISDN)){
+				$out->Error = "Only numbers permitted.";
+				return json_encode($out);
+			}
+			if(strlen($MSISDN) < 8){
+				$out->Error = "Number is to short.";
+				return json_encode($out);
+			}
+			if(strlen($MSISDN) > 15){
+				$out->Error = "Number is to long.";
+				return json_encode($out);
+			}
+			
+			$countries = json_decode(file_get_contents("../data/countries.json"));			
 			for ($x = 3; $x >= 1; $x--) {
 				$search = substr($MSISDN,0,$x);
 				$country = array_values(array_filter($countries, function($obj) use ($search){
@@ -39,8 +57,7 @@
 				$Code = $aMNO[0]->Code;
 				$Number = substr($phone,strlen($aMNO[0]->Code));
 			}		
-			
-			$out = new stdClass;
+						
 			$out->MSISDN = $MSISDN;
 			$out->Dial = $country[0]->Dial;
 			$out->Code = $Code;
