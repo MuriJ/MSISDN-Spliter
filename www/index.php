@@ -46,7 +46,7 @@
 					</form> 
 					<hr>
 					
-					<?php				
+					<?php											
 						try {
 							if (!empty($_POST)){
 								$client = new JsonRpc($rpc_api_url);

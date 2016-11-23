@@ -1,4 +1,7 @@
 <?php
+	/**
+	 * CLI test code, accepts MSISDN number as an argument
+	 */
 	include "www/settings.php";
 	include "www/includes.php";
 	use Splitter as Sp;

@@ -1,12 +1,24 @@
 <?php
 	include "includes.php";
-
+	
+	/**
+	 * @author Jure Murovec <murovec.jure@gmail.com>
+	 * @link https://github.com/MuriJ/MSISDN-Splitter
+	 */
 	class JsonRpcServer
 	{
+		/**
+		 * @param String $splitMSISDN containing MSISDN number
+		 *			 			 
+		 * @return \Object
+		 */
 		public function splitMSISDN($splitMSISDN){
 			$MSISDN = str_replace('-','',str_replace(' ','',ltrim(ltrim(trim($splitMSISDN),"+"),"00")));
 			$out = new stdClass;
 			
+			/**
+			 * Some input validation
+			 */
 			if(empty($MSISDN)){
 				$out->Error = "Input a number.";
 				return json_encode($out);
@@ -24,6 +36,9 @@
 				return json_encode($out);
 			}
 			
+			/**
+			 * Searches the countries.json for a county code starting with the first 3 numbers and decrease to 1
+			 */
 			$countries = json_decode(file_get_contents("../data/countries.json"));			
 			for ($x = 3; $x >= 1; $x--) {
 				$search = substr($MSISDN,0,$x);
@@ -34,7 +49,14 @@
 					break;
 				}
 			}
+			if(empty($country)){
+				$out->Error = "Unknown county.";
+				return json_encode($out);
+			}
 			
+			/**
+			 * If the selested county has a Local codes array set,  search for MNO otherwise just return NDCMax number of chars
+			 */
 			$phone = substr($MSISDN,$x);									
 			if (isset($country[0]->Codes)){
 				for ($x = $country[0]->NDCMax; $x >= $country[0]->NDCMin; $x--) {
