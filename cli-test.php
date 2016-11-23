@@ -19,6 +19,6 @@
 		
 		echo "\n".Sp\functions::printMSISDN($objMSISDN)."\n";
 	} catch (Exception $e) {
-		echo 'Caught exception: ',  $e->getMessage();
+		echo 'Caught exception: ',  $e->getMessage(), "\n";
 	}
 ?>

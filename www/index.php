@@ -32,11 +32,12 @@
 			<div class="container">
 				<div class="main">
 					<div style="margin:0px 0px 10px 0px; font-size:12px;">
-						<b>Input numbers samples:</b><br>
+						<b>Input samples:</b><br>
 						+386 40 504 267<br>
 						38604332205<br>
 						+385 42 225 984<br>
 						1-541-754-3010<br>
+						0038631981315<br>
 					</div>
 					<form action=<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?> method="post">
 					  MSISDN:<br>
