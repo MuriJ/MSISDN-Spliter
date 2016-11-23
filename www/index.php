@@ -15,6 +15,7 @@
 		<?php
 			include "settings.php";		
 			include "includes.php";
+			use Splitter as Sp;
 		?>
 	</head>
 	<body>
@@ -45,12 +46,20 @@
 					<hr>
 					
 					<?php				
-						if (!empty($_POST)){
-							$client = new JsonRpc($rpc_api_url);
-							$objMSISDN = json_decode($client->splitMSISDN($_POST["MSISDN"]));				
-								
-							printMSISDN($objMSISDN);
-						}
+						try {
+							if (!empty($_POST)){
+								$client = new JsonRpc($rpc_api_url);
+								$objMSISDN = json_decode($client->splitMSISDN($_POST["MSISDN"]));				
+								if (isset($objMSISDN->Error))
+								{
+									throw new Exception($objMSISDN->Error);
+								}
+																
+								echo nl2br(Sp\functions::printMSISDN($objMSISDN));
+							}
+						} catch (Exception $e) {
+							echo 'Caught exception: ',  $e->getMessage();
+						}											
 					?>
 				</div>
 			</div>
